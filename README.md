@@ -1,5 +1,6 @@
 # OpenNeuroChip
 OpenNeuroChip: Open-source collaboration for neuromorphic chip design. Join us in developing cutting-edge, low-power, and efficient architectures. #AI #Neuromorphic #OpenSource
+
 Welcome to OpenNeuroChip, an open-source community-driven repository dedicated to the collaborative development of neuromorphic chipsets. Our mission is to foster innovation and democratize the field of neuromorphic computing by providing a platform where researchers, engineers, and enthusiasts can come together to design, discuss, and share cutting-edge neuromorphic chip architectures.
 
 Neuromorphic chipsets are at the forefront of artificial intelligence and cognitive computing, emulating the remarkable processing capabilities of the human brain. By combining the principles of neuroscience with advanced semiconductor technologies, these chipsets offer tremendous potential for solving complex computational problems efficiently, with low power consumption.
