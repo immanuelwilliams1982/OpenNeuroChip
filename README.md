@@ -17,4 +17,3 @@ Discussion and Collaboration: Participate in vibrant discussions, share ideas, s
 
 OpenNeuroChip is driven by the principles of openness, transparency, and inclusivity. We encourage you to contribute your expertise, ideas, and feedback, fostering a vibrant and diverse community dedicated to revolutionizing computational paradigms through the power of neuromorphic chipsets. Together, let's unlock the potential of this exciting field and shape the future of intelligent computing.
 
-Feel free to modify and tailor the description as per your requirements. Good luck with your open-source neuromorphic chipset design repository!
